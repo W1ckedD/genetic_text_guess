@@ -4,7 +4,7 @@
 ## Instalation
 * requires python 3 and above
 
-# Execution
+## Execution
 * for mac and linux: python3 app.py
 * for windows: python app.py
 
