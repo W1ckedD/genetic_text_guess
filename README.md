@@ -1,7 +1,7 @@
 # Genetic-String-Guess
 > A simple application that uses genetic algorithm to find find a given word after multiple guesses (I haven't put a limit for the number of guesses which can cause problems for long texts)
 
-## Instalation
+## Installation
 * requires python 3 and above
 
 ## Execution
